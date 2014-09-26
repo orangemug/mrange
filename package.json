@@ -1,0 +1,10 @@
+{
+  "name": "mrange",
+  "version": "0.1.0",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/index.js"
+  }
+}
